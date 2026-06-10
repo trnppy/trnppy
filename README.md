@@ -1,6 +1,6 @@
 ### About
 
-Non-local git home for things I do for the fun of it
+Non-local git home for this and that
 
 ### Tinkerings
 
@@ -13,7 +13,4 @@ Non-local git home for things I do for the fun of it
 | wipy          | mesos          | redis      |               |
 |               | qemu           | zookeeper  |               |
 |               | radius         |            |               |
-|               |                |            |               |
-|               |                |            |               
 
-repo links to follow
